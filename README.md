@@ -1,5 +1,10 @@
 # firstC
 
+
+
+
+
+
 using System;
 
 namespace ConsoleApp1
